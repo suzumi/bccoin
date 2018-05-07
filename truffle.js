@@ -14,7 +14,7 @@ module.exports = {
         );
       },
       network_id: 3,
-      gas: 500000
+      gas: 4600000
     }   
   }
 };
